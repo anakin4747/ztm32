@@ -6,6 +6,10 @@ Hello World
 Overview
 ********
 
+Example STM32 Zephyr project based on the advice found in the following video
+`Manifests: Project Sanity in the Ever-Changing Zephyr World - Mike Szczys, Golioth
+<https://www.youtube.com/watch?v=PVhu5rg_SGY>`_
+
 A simple sample that can be used with any :ref:`supported board <boards>` and
 prints "Hello World" to the console.
 
