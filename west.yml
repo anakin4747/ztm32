@@ -10,7 +10,6 @@ manifest:
         file: west.yml
         path-prefix: deps
         name-allowlist:
-          - cmsis
           - hal_stm32
   self:
     path: app
